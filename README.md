@@ -246,6 +246,8 @@ grep LLM_API_KEY .env
 ```bash
 curl http://localhost:8000/api/health
 ```
+<img width="1908" height="1065" alt="image" src="https://github.com/user-attachments/assets/d006c021-fcaa-4ab0-be9f-e70676c161d9" />
+
 
 2. Check dashboard logs:
 ```bash
